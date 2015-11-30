@@ -64,5 +64,6 @@ void
 detruire_fap(fap f)
 {
   if (f != NULL)
+		bonjour je m'appelle Kévin.
       free(f);
 }
